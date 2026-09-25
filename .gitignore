@@ -53,3 +53,4 @@ vendor/
 .github/workflows/deploy*.yml
 .github/workflows/rollback*.yml
 artifacts/
+.specify/
