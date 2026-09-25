@@ -52,3 +52,4 @@ vendor/
 .github/hooks/
 .github/workflows/deploy*.yml
 .github/workflows/rollback*.yml
+artifacts/
